@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+class-based-components-1.jpg
+class-based-components-2.jpg
